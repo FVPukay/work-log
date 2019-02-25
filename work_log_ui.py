@@ -200,7 +200,7 @@ def search_navigator(list, count):
         Result {} of {}\n
     """)
 
-    e_d_r_template = '[E]dit, [D]elete, [R]eturn to search menu)'
+    e_d_r_template = '[E]dit, [D]elete, [R]eturn to search menu'
     n_e_d_r_template = '[N]ext, [E]dit, [D]elete, [R]eturn to search menu'
     p_e_d_r_template = '[P]revious, [E]dit, [D]elete, [R]eturn to search menu'
     n_p_e_d_r_template = dedent("""\
